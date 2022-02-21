@@ -1,0 +1,38 @@
+  <div class="container-fluid img-fluid" style="background-color: lightblue;">
+        <div class="row">
+            <div class="card col-3 my-3 mx-2" style="background-color: white;">
+                <img class="card-img-top" src="exam.png" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Earn Online</h5>
+                    <p class="card-text">Just the little extra help you need to create an internet-based income stream.
+                    </p>
+                </div>
+            </div>
+            <div class=" my-3 col-3 card-body p-2 mx-2" style="background-color: white;">
+                <img class="card-img-top" src="career.PNG" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Career Guidance</h5>
+                    <p class="card-text">Find answers to the most sought-after questions effecting your career choices.
+                    </p>
+                </div>
+            </div>
+            <div class="my-3 col-3 card p-2 mx-2" style="background-color: white;">
+                <img class="card-img-top" src="career.PNG" alt="Card image cap">
+                <div class="card-body">    
+                    <h5 class="card-title">Govt. Exams</h5>
+                    <p class="card-text">Keep abreast with the latest developments in the field of government jobs and
+                        exams.
+                    </p>
+                </div>
+            </div>
+            <div class="my-3 col-3 card p-2 mx-2" style="background-color: white;">
+                <img class="card-img-top" src="entrance.png" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Entrance Exams</h5>
+                    <p class="card-text">Keep yourself updated with all entrance exams and level up your preparation
+                        strategy.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>

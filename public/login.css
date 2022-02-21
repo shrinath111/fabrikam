@@ -1,0 +1,48 @@
+html,
+body
+{
+    margin: 0;
+    background-image:url("p.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.parent
+{
+
+    position:absolute;
+    top:30%;
+    left: 40%;
+    border:8px solid whitesmoke;
+    border-spacing: 50px;
+    border-block-color: black;
+    border-spacing: inherit;
+}
+.ctext 
+{
+    color: beige;
+    font-size:large;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+.pp
+{
+    margin-top: 50px;
+    margin-left: 19%;
+    font-size: 50px;
+    font-family: cursive;
+    color: bisque;
+}
+.log
+{
+   height: 30px;
+   width:80px;
+   margin-left: 130px;
+   font-weight: bold;
+   font-size: medium;
+   margin-bottom: 50px;
+   margin-top: 20px;
+   color: black;
+}

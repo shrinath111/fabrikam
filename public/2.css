@@ -1,0 +1,26 @@
+html,
+body
+{
+    margin: 0;
+}
+.parent1
+{
+    margin-left: 90px;
+    background-color:lightgoldenrodyellow;
+    display:flex;
+    align-items: top;
+    justify-content: space-between;
+    height: 20%;
+    flex:1;
+    margin: 0;
+}
+.child
+{
+    font-size: medium;
+}
+.box
+{
+    flex:1;
+    display: inline-block;
+    box-sizing: border-box;
+}
